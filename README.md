@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hey there, awesome people!
 
-<!--
-**cjmalong122333/cjmalong122333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Christian Jay Cagalitan Malong** — a passionate tech enthusiast on a journey to level up in the world of development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning:**  
+&nbsp;&nbsp;&nbsp;&nbsp;📘 JavaScript &nbsp;&nbsp;🐍 Python
+
+💻 **Current Tech Stack:**  
+&nbsp;&nbsp;&nbsp;&nbsp;☕ Java &nbsp;&nbsp;🐘 PHP &nbsp;&nbsp;🌐 HTML &nbsp;&nbsp;🎨 CSS
+
+📫 **Connect with Me:**  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/christian.malong.2024)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malong.christianjay.cagalitan@gmail.com)
+
+---
+
+🤝 **Looking forward to working with you someday!**
