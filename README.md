@@ -25,3 +25,11 @@ I'm **Christian Jay** — A driven tech enthusiast on an exciting journey to sha
 🤝 **Looking forward to working with you someday!**
 
 😄 **Enjoy my profile!**
+
+---
+
+🏆 **Tech Stack:**  
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-6-blue?style=for-the-badge&logo=trophy)
+
+🏆 **Repositories:**  
+![Repositories](https://img.shields.io/badge/Repos-12-yellow?style=for-the-badge&logo=trophy)
