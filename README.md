@@ -28,8 +28,6 @@ I'm **Christian Jay** — A driven tech enthusiast on an exciting journey to sha
 
 ---
 
-🏆 **Tech Stack:**  
-![Tech Stack](https://img.shields.io/badge/Tech%20Stack-6-blue?style=for-the-badge&logo=trophy)
+🏆 **Badges:**  🏆
 
-🏆 **Repositories:**  
-![Repositories](https://img.shields.io/badge/Repos-12-yellow?style=for-the-badge&logo=trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cjmalong122333)](https://github.com/ryo-ma/github-profile-trophy)
