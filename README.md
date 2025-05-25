@@ -5,26 +5,38 @@ I'm **Christian Jay** — A driven tech enthusiast on an exciting journey to sha
 ---
 
 🌱 **Currently Learning**  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="70" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="70" style="margin-right: 10px;" />
 
 💻 **Current Tech Stack**  
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML5" width="70" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS3" width="70" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" width="70" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" width="70" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" width="70" />
 
 📫 **Connect with Me**  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/christian.malong.2024)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malong.christianjay.cagalitan@gmail.com)
+<a href="https://www.facebook.com/christian.malong.2024" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="70" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:malong.christianjay.cagalitan@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="70" />
+</a>
+
 
 ---
 
 🤝 **Looking forward to working with you someday!**
 
 😄 **Enjoy my profile!**
+
+---
+
+Besides programming, I love:
+
+- 🏀 Playing basketball  
+- 🎮 Online gaming  
+- 📺 Watching anime and horror movies
 
 ---
 
