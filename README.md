@@ -6,7 +6,6 @@ I'm **Christian Jay** — A driven tech enthusiast on an exciting journey to sha
 
 🌱 **Currently Learning**  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 💻 **Current Tech Stack**  
