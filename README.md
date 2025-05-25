@@ -5,7 +5,7 @@ I'm **Christian Jay** — A driven tech enthusiast on an exciting journey to sha
 ---
 
 🌱 **Currently Learning**  
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="70" style="margin-right: 10px;" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="70" style="margin-right: 10px;" /> &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="70" style="margin-right: 10px;" />
 
 💻 **Current Tech Stack**  
