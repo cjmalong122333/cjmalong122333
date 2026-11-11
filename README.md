@@ -18,7 +18,9 @@ My main areas of interest are web development, backend development, and data ana
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
+
+---
 
 #### **Languages**
 <p>
