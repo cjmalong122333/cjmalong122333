@@ -1,14 +1,20 @@
+<h1 align="center">
+  Hey there, I'm <a href="https://github.com/cjmalong122333">Christian Jay</a>! 
+</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=I'm+a+Full+Stack+Developer;I'm+a+Data+Analyst;I'm+into+Tech+Support" alt="Typing SVG" />
+  </a>
+</p>
 
-Hey there, I'm **Christian Jay**! 👋
 ---
+
 I’m an Information Technology student passionate about software development and building practical solutions to real-world problems. I enjoy creating user-friendly websites and applications while finding ways to make existing systems more efficient.
 
 Through my projects, I’ve gained experience in web development, database management, and various programming tools. I’m always looking for opportunities to expand my knowledge, strengthen my technical skills, and gain hands-on experience.
 
 My main areas of interest are web development, backend development, and data analytics.
-
-
 
 ---
 
@@ -47,6 +53,4 @@ My main areas of interest are web development, backend development, and data ana
 
 ---
 
----
-
-**Looking forward to working with you someday!** 
+**Looking forward to working with you someday!** 🚀
