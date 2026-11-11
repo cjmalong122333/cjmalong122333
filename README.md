@@ -53,4 +53,4 @@ My main areas of interest are web development, backend development, and data ana
 
 ---
 
-**Looking forward to working with you someday!** 🚀
+**Looking forward to working with you someday!** 
